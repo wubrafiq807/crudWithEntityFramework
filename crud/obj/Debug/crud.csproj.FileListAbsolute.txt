@@ -79,3 +79,4 @@ E:\aspweb\crud\crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 E:\aspweb\crud\crud\obj\Debug\crud.csproj.CopyComplete
 E:\aspweb\crud\crud\obj\Debug\crud.dll
 E:\aspweb\crud\crud\obj\Debug\crud.pdb
+E:\aspweb\crud\crud\obj\Debug\crud.csprojAssemblyReference.cache
